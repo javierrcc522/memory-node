@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+.well {
+  height: 200px;
+  text-align:center;
+  padding-top: 40px;
+}
+.well:hover{
+  color: #0088cc;
+  cursor: pointer;
+  text-decoration: underline;
+  background-color: rgba(20, 223, 223, 0.3);
+}
+.flashinfo {
+  display: none;
+}
+
+.color{
+  background-color: rgba(57, 223, 57, 0.3);
+}
